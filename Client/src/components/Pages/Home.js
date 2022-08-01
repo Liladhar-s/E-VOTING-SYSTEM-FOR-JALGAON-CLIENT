@@ -15,7 +15,7 @@ class Home extends Component {
       <div>
         <Header
           title="Welcome to"
-          subtitle="Secure Voting For Cooperative Societies"
+          subtitle="E-Voting"
           buttonText="Get-Started"
           // link="/Signup" // to signup/login page
           showButton={true}
@@ -28,7 +28,7 @@ class Home extends Component {
         <Team />
         <Contact />
 
-        <Footer name="SEVCS 2022" />
+        <Footer name="CYBER DECODER'S 2022" />
       </div>
     );
   }
